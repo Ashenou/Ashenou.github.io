@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #161618;
+  color: azure;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.navbar {
+  float: right;
+  font-size: 200%;
+}
+
+a:link {
+  text-decoration: none;
+  color: azure;
+}
+a:hover {
+  color: teal;
+}
+#about {
+  float: right;
+  margin-top: 6%;
+  margin-right: 3%;
+}
+#abanoub {
+  margin-top: 6%;
+  margin-left: 2%;
+  float: left;
+}
+#work {
+  margin-top: 6%;
+  margin-right: 3%;
+}
+#contactme {
+  float: right;
+  margin-top: 6%;
+  margin-right: 5%;
+}
+#homecontent {
+  clear: right;
+  padding-top: 8%;
+  padding-left: 8%;
+  padding-right: 5%;
+  font-size: 500%;
+  display: block;
+  text-align: justify;
+}
+.footer {
+  float: left;
+  margin-top: 1%;
+  font-size: 200%;
+}
+#about2 {
+  margin-left: 14%;
+}
+#work2 {
+  clear: left;
+  margin-left: 24%;
+}
+#contactme2 {
+  margin-left: 13%;
+}
+h5 {
+  margin-top: 5%;
+  font-size: x-large;
+  float: left;
+}
+#h51 {
+  clear: left;
+  float: left;
+  margin-left: 18%;
+  text-align: center;
+}
+#h52 {
+  float: left;
+  margin-left: 4%;
+}
+#h53 {
+  float: left;
+  margin-left: 4%;
+}
+#worktitle1 {
+  clear: left;
+  padding-top: 8%;
+  margin-left: 5%;
+}
+#workcontent {
+  margin-left: 5%;
+}
+#ultitle {
+  margin-left: 5%;
+}
+#contactmetitle {
+  clear: left;
+  padding-top: 8%;
+  margin-left: 5%;
+}
+#contactmecontent {
+  margin-left: 5%;
+}
+ul {
+  clear: left;
+  margin-top: 12%;
+  margin-left: 5%;
+  font-size: 150%;
+}
+
+#resumelink {
+  clear: left;
+  margin-left: 8%;
+  font-size: 150%;
+  padding-bottom: 5%;
+}
